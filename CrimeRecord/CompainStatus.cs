@@ -202,7 +202,7 @@ namespace CrimeRecord
 
         private void pictureBox1_Click_1(object sender, EventArgs e)
         {
-
+            
         }
 
         private void complaingridview_CellContentClick(object sender, DataGridViewCellEventArgs e)
