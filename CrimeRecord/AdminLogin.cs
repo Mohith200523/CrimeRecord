@@ -50,7 +50,7 @@ namespace CrimeRecord
             }
             else
             {
-                MessageBox.Show("Please Enter the Valid UserName and Password", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Please Enter the Valid details", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
