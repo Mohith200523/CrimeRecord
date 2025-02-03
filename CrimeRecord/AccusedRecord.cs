@@ -97,7 +97,7 @@ namespace CrimeRecord
         {
             string query = "Delete from Table_Accused where Accused_ID = '" + txtaccusedid.Text + "'";
             accusedgridview.DataSource = DBConnection.GetTableByQuery(query);
-            MessageBox.Show("Accused Deleted Successfully");
+            MessageBox.Show("Successfully");
             dataload();
         }
 
